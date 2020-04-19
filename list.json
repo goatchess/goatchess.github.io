@@ -1,0 +1,29 @@
+{
+    "allPlayers" : [
+        "Alekhine", "Anand", "Anderssen", "Aronian", "Benko", "Bird", 
+        "Botvinnik", "Bronstein", "Capablanca", "Carlsen", "Caruana", "Chigorin",
+        "LaBourdonnais", "Ding Liren", "Euwe", "Fischer", "Gelfand",
+        "Giri", "Grischuk", "Ivanchuk", "Karopv", "Kasparov","Keres", "Korchnoi",
+        "Kramnik", "larsen", "Lasker", "Marshall","Mamedyerov", "Morphy",
+        "Najdorf", "Nakamura", "Pilsbury", "Polgar", "Reshevsky", "Reti",
+        "Rubinstein", "Seriawan", "So", "Spassky", "Staunton",
+        "Steinitz", "SultanKhan", "Svidler", "Tal", "Tarrasch",
+        "Topalov", "VachierLagrave"
+    ],
+    "players":[
+        {
+            "displayName": "Paul Morphy",
+            "pgnUrl": "https://goatchess.github.io/pgn/",
+            "profile":{
+                "firstName": "Paul",
+                "lastName": "Morphy",
+                "imageUrl": "https://goatchess.github.io/images",
+                "birthYear": 123,
+                "deathYear": 123,
+                "subText": "",
+                "description": "",
+                "highestEloAchieved": 1234
+            }
+        }
+    ]
+}
