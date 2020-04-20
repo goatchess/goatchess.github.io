@@ -31,8 +31,7 @@
                 "lastName": "Morphy",
                 "imageUrl": "https://goatchess.github.io/images/Morphy.jpg",
                 "birthYear": 1837,
-                "deathYear": 1884,
-                "title": "GM"
+                "deathYear": 1884
             }
         }
     ]
