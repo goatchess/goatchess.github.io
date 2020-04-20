@@ -14,6 +14,7 @@
         {
             "name": "Alexander Alekhine",
             "pgnUrl": "https://goatchess.github.io/pgn/Alekhine.pgn",
+            "pgnALiases": ["Alekhine, Alexander"],
             "profile":{
                 "firstName": "Alexander",
                 "lastName": "Alekhine",
@@ -26,6 +27,7 @@
         {
             "name": "Paul Morphy",
             "pgnUrl": "https://goatchess.github.io/pgn/Morphy.pgn",
+            "pgnAliases":["Morphy, Paul "],
             "profile":{
                 "firstName": "Paul",
                 "lastName": "Morphy",
