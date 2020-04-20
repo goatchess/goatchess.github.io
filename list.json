@@ -14,7 +14,7 @@
         {
             "name": "Alexander Alekhine",
             "pgnUrl": "https://goatchess.github.io/pgn/Alekhine.pgn",
-            "pgnALiases": ["Alekhine, Alexander"],
+            "pgnAliases": ["Alekhine, Alexander"],
             "profile":{
                 "firstName": "Alexander",
                 "lastName": "Alekhine",
