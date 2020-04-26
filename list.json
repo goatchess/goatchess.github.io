@@ -10,17 +10,14 @@
         "Steinitz", "SultanKhan", "Svidler", "Tal", "Tarrasch",
         "Topalov", "VachierLagrave"
     ],
-    "players":[
+    "list":[
         {
             "name": "Alexander Alekhine",
             "pgnUrl": "https://goatchess.github.io/pgn/Alekhine.pgn",
             "pgnAliases": ["Alekhine, Alexander"],
             "profile":{
-                "firstName": "Alexander",
-                "lastName": "Alekhine",
                 "imageUrl": "https://goatchess.github.io/images/Alekhine.jpg",
-                "birthYear": 1892,
-                "deathYear": 1946,
+                "subText": "1892-1946",
                 "title": "GM"
             }
         },
@@ -29,11 +26,8 @@
             "pgnUrl": "https://goatchess.github.io/pgn/Morphy.pgn",
             "pgnAliases":["Morphy, Paul"],
             "profile":{
-                "firstName": "Paul",
-                "lastName": "Morphy",
                 "imageUrl": "https://goatchess.github.io/images/Morphy.jpg",
-                "birthYear": 1837,
-                "deathYear": 1884
+                "subText": "1837-1884"
             }
         }
     ]
