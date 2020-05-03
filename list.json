@@ -22,10 +22,29 @@
             }
         },
         {
+            "name": "Vishwanathan Anand",
+            "pgnUrl": "https://goatchess.github.io/pgn/Anand.pgn",
+            "pgnAliases": ["Anand, Viswanathan", "Anand,V"],
+            "profile":{
+                "imageUrl": "https://goatchess.github.io/images/Anand.jpg",
+                "subText": "1969-",
+                "title": "GM"
+            }
+        },
+        {
+            "name": "Adolf Anderssen",
+            "pgnUrl": "https://goatchess.github.io/pgn/Anderssen.pgn",
+            "pgnAliases": ["Anderssen, Adolf"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Anderssen.jpg",
+                "subText": "1818-1879"
+            }
+        },
+        {
             "name": "Paul Morphy",
             "pgnUrl": "https://goatchess.github.io/pgn/Morphy.pgn",
-            "pgnAliases":["Morphy, Paul"],
-            "profile":{
+            "pgnAliases": ["Morphy, Paul"],
+            "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Morphy.jpg",
                 "subText": "1837-1884"
             }
