@@ -2,9 +2,9 @@
     "allPlayers" : [
         "Alekhine", "Anand", "Anderssen", "Aronian", "Benko", "Bird", 
         "Botvinnik", "Bronstein", "Capablanca", "Carlsen", "Caruana", "Chigorin",
-        "LaBourdonnais", "Ding Liren", "Euwe", "Fischer", "Gelfand",
+        "Ding Liren", "Euwe", "Evans", "Fischer", "Gelfand",
         "Giri", "Grischuk", "Ivanchuk", "Karopv", "Kasparov","Keres", "Korchnoi",
-        "Kramnik", "larsen", "Lasker", "Marshall","Mamedyerov", "Morphy",
+        "Kramnik", "LaBourdonnais", "larsen", "Lasker", "Marshall","Mamedyerov", "Morphy",
         "Najdorf", "Nakamura", "Pilsbury", "Polgar", "Reshevsky", "Reti",
         "Rubinstein", "Seriawan", "So", "Spassky", "Staunton",
         "Steinitz", "SultanKhan", "Svidler", "Tal", "Tarrasch",
@@ -38,6 +38,141 @@
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Anderssen.png",
                 "subText": "1818-1879"
+            }
+        },
+        {
+            "name": "Levon Aronian",
+            "pgnUrl": "https://goatchess.github.io/pgn/Aronian.pgn",
+            "pgnAliases": ["Aronian, Levon", "Aronian,L"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Aronian.png",
+                "subText": "1982-"
+            }
+        },
+        {
+            "name": "Pal Benko",
+            "pgnUrl": "https://goatchess.github.io/pgn/Benko.pgn",
+            "pgnAliases": ["Benko, Pal C"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Benko.jpg",
+                "subText": "1928-2019"
+            }
+        },
+        {
+            "name": "Henry Bird",
+            "pgnUrl": "https://goatchess.github.io/pgn/Bird.pgn",
+            "pgnAliases": ["Bird, Henry Edward"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Bird.jpg",
+                "subText": "1829-1908"
+            }
+        },
+        {
+            "name": "Mikhail Botvinnik",
+            "pgnUrl": "https://goatchess.github.io/pgn/Botvinnik.pgn",
+            "pgnAliases": ["Botvinnik, Mikhail"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Botvinnik.jpg",
+                "subText": "1911-1963"
+            }
+        },
+        {
+            "name": "David Bronstein",
+            "pgnUrl": "https://goatchess.github.io/pgn/Bronstein.pgn",
+            "pgnAliases": ["Bronstein, David I"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Bronstein.jpg",
+                "subText": "1924-2006"
+            }
+        },
+        {
+            "name": "Jose Raul Capablanca",
+            "pgnUrl": "https://goatchess.github.io/pgn/Capablanca.pgn",
+            "pgnAliases": ["Capablanca, Jose Raul"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Capablanca.jpg",
+                "subText": "1888-1942"
+            }
+        },
+        {
+            "name": "Magnus Carlsen",
+            "pgnUrl": "https://goatchess.github.io/pgn/Carlsen.pgn",
+            "pgnAliases": ["Carlsen,Magnus","Carlsen,M"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Carlsen.jpeg",
+                "subText": "1990="
+            }
+        },
+        {
+            "name": "Fabiano Caruana",
+            "pgnUrl": "https://goatchess.github.io/pgn/Caruana.pgn",
+            "pgnAliases": ["Caruana,F"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Caruana.jpeg",
+                "subText": "1992-"
+            }
+        },
+        {
+            "name": "Mikhail Chigorin",
+            "pgnUrl": "https://goatchess.github.io/pgn/Chigorin.pgn",
+            "pgnAliases": ["Chigorin, Mikhail"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Chigorin.jpg",
+                "subText": "1850-1908"
+            }
+        },
+        {
+            "name": "Ding Liren",
+            "pgnUrl": "https://goatchess.github.io/pgn/Ding.pgn",
+            "pgnAliases": ["Ding Liren"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Ding.jpg",
+                "subText": "1992-"
+            }
+        },
+        {
+            "name": "Max Euwe",
+            "pgnUrl": "https://goatchess.github.io/pgn/Euwe.pgn",
+            "pgnAliases": ["Euwe, Max"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Euwe.jpg",
+                "subText": "1901-1981"
+            }
+        },
+        {
+            "name": "Larry Evans",
+            "pgnUrl": "https://goatchess.github.io/pgn/Evans.pgn",
+            "pgnAliases": ["Evans, Larry"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Evans.jpg",
+                "subText": "1932-2010"
+            }
+        },
+        {
+            "name": "Bobby Fischer",
+            "pgnUrl": "https://goatchess.github.io/pgn/Fischer.pgn",
+            "pgnAliases": ["Fischer, Robert James"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Fischer.jpg",
+                "subText": "1943-2008"
+            }
+        },
+        {
+            "name": "Boris Gelfand",
+            "pgnUrl": "https://goatchess.github.io/pgn/Gelfand.pgn",
+            "pgnAliases": ["Gelfand, Boris", "Gelfand,B"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Gelfand.jpg",
+                "subText": "1968-"
+            }
+        },
+        {
+            "name": "Louis de La Bourdonnais",
+            "pgnUrl": "https://goatchess.github.io/pgn/DeLaBourdonnais.pgn",
+            "pgnAliases": ["De Labourdonnais, Louis", "De la Bourdonnais, Louis"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/DeLaBourdonnais.jpg",
+                "subText": "1795-1840"
             }
         },
         {
