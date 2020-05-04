@@ -167,6 +167,96 @@
             }
         },
         {
+            "name": "Anish Giri",
+            "pgnUrl": "https://goatchess.github.io/pgn/Giri.pgn",
+            "pgnAliases": ["Giri,A"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Giri.jpg",
+                "subText": "1994-"
+            }
+        },
+        {
+            "name": "Alexander Grischuk",
+            "pgnUrl": "https://goatchess.github.io/pgn/Grischuk.pgn",
+            "pgnAliases": ["Grischuk, Alexander", "Grischuk,A"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Grischuk.jpg",
+                "subText": "1983-"
+            }
+        },
+        {
+            "name": "Vassily Ivanchuk",
+            "pgnUrl": "https://goatchess.github.io/pgn/Ivanchuk.pgn",
+            "pgnAliases": ["Ivanchuk, Vassily", "Ivanchuk,V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Ivanchuk.png",
+                "subText": "1969-"
+            }
+        },
+        {
+            "name": "Gata Kamsky",
+            "pgnUrl": "https://goatchess.github.io/pgn/Kamsky.pgn",
+            "pgnAliases": ["Kamsky, Gata","Kamsky,G"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Kamsky.jpg",
+                "subText": "1974-"
+            }
+        },
+        {
+            "name": "Sergey Karjakin",
+            "pgnUrl": "https://goatchess.github.io/pgn/Karjakin.pgn",
+            "pgnAliases": ["Karjakin,Sergey","Karjakin,S","Karjakin, Sergey", "Karjakin, Sergei", "Karjakin,Sergei"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Karjakin.jpg",
+                "subText": "1990-"
+            }
+        },
+        {
+            "name": "Anatoly Karpov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Karpov.pgn",
+            "pgnAliases": ["Karpov, Anatoly","Karpov,Ana"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Karpov.jpg",
+                "subText": "1951-"
+            }
+        },
+        {
+            "name": "Garry Kasparov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Kasparov.pgn",
+            "pgnAliases": ["Kasparov,G", "Kasparov, Gary"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Kasparov.jpg",
+                "subText": "1963-"
+            }
+        },
+        {
+            "name": "Paul Keres",
+            "pgnUrl": "https://goatchess.github.io/pgn/Keres.pgn",
+            "pgnAliases": ["Keres, Paul"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Keres.jpg",
+                "subText": "1916-1975"
+            }
+        },
+        {
+            "name": "Viktor Korchnoi",
+            "pgnUrl": "https://goatchess.github.io/pgn/Kortschnoi.pgn",
+            "pgnAliases": ["Kortschnoj, Viktor", "Korchnoi,V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Kortschnoi.pgn",
+                "subText": "1931-2016"
+            }
+        },
+        {
+            "name": "Vladimir Kramnik",
+            "pgnUrl": "https://goatchess.github.io/pgn/Kramnik.pgn",
+            "pgnAliases": ["Kramnik, Vladimir", "Kramnik,V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Kramnik.jpg",
+                "subText": "1975-"
+            }
+        },
+        {
             "name": "Louis de La Bourdonnais",
             "pgnUrl": "https://goatchess.github.io/pgn/DeLaBourdonnais.pgn",
             "pgnAliases": ["De Labourdonnais, Louis", "De la Bourdonnais, Louis"],
@@ -176,12 +266,255 @@
             }
         },
         {
+            "name": "Bent Larsen",
+            "pgnUrl": "https://goatchess.github.io/pgn/Larsen.pgn",
+            "pgnAliases": ["Larsen, Bent", "Larsen,B"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Larsen.jpg",
+                "subText": "1935-2010"
+            }
+        },
+        {
+            "name": "Emanuel Lasker",
+            "pgnUrl": "https://goatchess.github.io/pgn/Lasker.pgn",
+            "pgnAliases": ["Lasker, Emanuel"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Lasker.jpg",
+                "subText": "1868-1941"
+            }
+        },
+        {
+            "name": "Geza Maroczy",
+            "pgnUrl": "https://goatchess.github.io/pgn/Maroczy.pgn",
+            "pgnAliases": ["Maroczy, Geza"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Maroczy.jpg",
+                "subText": "1870-1951"
+            }
+        },
+        {
+            "name": "Frank Marshall",
+            "pgnUrl": "https://goatchess.github.io/pgn/Marshall.pgn",
+            "pgnAliases": ["Marshall, Frank James"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Marshall.jpg",
+                "subText": "1877-1944"
+            }
+        },
+        {
             "name": "Paul Morphy",
             "pgnUrl": "https://goatchess.github.io/pgn/Morphy.pgn",
             "pgnAliases": ["Morphy, Paul"],
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Morphy.jpg",
                 "subText": "1837-1884"
+            }
+        },
+        {
+            "name": "Miguel Najdorf",
+            "pgnUrl": "https://goatchess.github.io/pgn/Najdorf.pgn",
+            "pgnAliases": ["Najdorf, Miguel"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Najdorf.jpg",
+                "subText": "1910-1997"
+            }
+        },
+        {
+            "name": "Hikaru Nakamura",
+            "pgnUrl": "https://goatchess.github.io/pgn/Nakamura.pgn",
+            "pgnAliases": ["Nakamura, Hikaru", "Nakamura,H"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Nakamura.jpg",
+                "subText": "1987-"
+            }
+        },
+        {
+            "name": "Aaron Nimzowitsch",
+            "pgnUrl": "https://goatchess.github.io/pgn/Nimzowitsch.pgn",
+            "pgnAliases": ["Nimzowitsch, Aaron "],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Nimzowitsch.jpg",
+                "subText": "1886-1935"
+            }
+        },
+        {
+            "name": "Harry Pillsbury",
+            "pgnUrl": "https://goatchess.github.io/pgn/Pillsbury.pgn",
+            "pgnAliases": ["Pillsbury, Harry Nelson"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Pillsbury.jpg",
+                "subText": "1872-1906"
+            }
+        },
+        {
+            "name": "Judit Polgar",
+            "pgnUrl": "https://goatchess.github.io/pgn/PolgarJ.pgn",
+            "pgnAliases": ["Polgar, Judit", "Polgar,Ju"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Polgar.jpg",
+                "subText": "1976-"
+            }
+        },
+        {
+            "name": "Samuel Reshevsky",
+            "pgnUrl": "https://goatchess.github.io/pgn/Reshevsky.pgn",
+            "pgnAliases": ["Reshevsky, Samuel Herman"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Reshevsky.jpg",
+                "subText": "1911-1992"
+            }
+        },
+        {
+            "name": "Richard Reti",
+            "pgnUrl": "https://goatchess.github.io/pgn/Reti.pgn",
+            "pgnAliases": ["Reti, Richard"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Reti.jpg",
+                "subText": "1889-1929"
+            }
+        },
+        {
+            "name": "Akiba Rubinstein",
+            "pgnUrl": "https://goatchess.github.io/pgn/Rubinstein.pgn",
+            "pgnAliases": ["Rubinstein, Akiba"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Rubinstein.jpg",
+                "subText": "1880-1961"
+            }
+        },
+        {
+            "name": "Yasser Seirawan",
+            "pgnUrl": "https://goatchess.github.io/pgn/Seirawan.pgn",
+            "pgnAliases": ["Seirawan, Yasser", "Seirawan,Y"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Seirawan.jpg",
+                "subText": "1960-"
+            }
+        },
+        {
+            "name": "Wesley So",
+            "pgnUrl": "https://goatchess.github.io/pgn/So.pgn",
+            "pgnAliases": ["So,Wesley","So,W"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/So.jpg",
+                "subText": "1993-"
+            }
+        },
+        {
+            "name": "Boris Spassky",
+            "pgnUrl": "https://goatchess.github.io/pgn/Spassky.pgn",
+            "pgnAliases": ["Spassky, Boris V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Spassky.jpg",
+                "subText": "1937-"
+            }
+        },
+        {
+            "name": "Howard Staunton",
+            "pgnUrl": "https://goatchess.github.io/pgn/Staunton.pgn",
+            "pgnAliases": ["Staunton, Howard"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Staunton.jpeg",
+                "subText": "1810-1874"
+            }
+        },
+        {
+            "name": "Wilhelm Steinitz",
+            "pgnUrl": "https://goatchess.github.io/pgn/Steinitz.pgn",
+            "pgnAliases": ["Steinitz, William"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Steinitz.jpg",
+                "subText": "1836-1900"
+            }
+        },
+        {
+            "name": "Mir Sultan Khan",
+            "pgnUrl": "https://goatchess.github.io/pgn/SultanKhan.pgn",
+            "pgnAliases": ["Mir Sultan Khan", "Sultan Khan, Mir"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/SultanKhan.jpg",
+                "subText": "1905-1966"
+            }
+        },
+        {
+            "name": "Peter Svidler",
+            "pgnUrl": "https://goatchess.github.io/pgn/Svidler.pgn",
+            "pgnAliases": ["Svidler, Peter", "Svidler,P"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Svidler.jpg",
+                "subText": "1976-"
+            }
+        },
+        {
+            "name": "Mark Taimanov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Taimanov.pgn",
+            "pgnAliases": ["Taimanov, Mark E", "Taimanov,M"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Taimanov.jpg",
+                "subText": "1926-2016"
+            }
+        },
+        {
+            "name": "Mihail Tal",
+            "pgnUrl": "https://goatchess.github.io/pgn/Tal.pgn",
+            "pgnAliases": ["Tal, Mihail"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Tal.jpg",
+                "subText": "1936-1992"
+            }
+        },
+        {
+            "name": "Siegbert Tarrasch",
+            "pgnUrl": "https://goatchess.github.io/pgn/Tarrasch.pgn",
+            "pgnAliases": ["Tarrasch, Siegbert"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Tarrasch.jpg",
+                "subText": "1862-1934"
+            }
+        },
+        {
+            "name": "Veselin Topalov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Topalov.pgn",
+            "pgnAliases": ["Topalov, Veselin", "Topalov,V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Topalov.jpg",
+                "subText": "1975-"
+            }
+        },
+        {
+            "name": "Wolfgang Uhlmann",
+            "pgnUrl": "https://goatchess.github.io/pgn/Uhlmann.pgn",
+            "pgnAliases": ["Uhlmann, Wolfgang", "Uhlmann,W"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Uhlmann.jpg",
+                "subText": "1935-"
+            }
+        },
+        {
+            "name": "Maxime Vachier-Lagrave",
+            "pgnUrl": "https://goatchess.github.io/pgn/VachierLagrave.pgn",
+            "pgnAliases": ["Vachier Lagrave, Mexime", "Vachier Lagrave,M"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/VachierLagrave.jpg",
+                "subText": "1990-"
+            }
+        },
+        {
+            "name": "Szymon Winawer",
+            "pgnUrl": "https://goatchess.github.io/pgn/Winawer.pgn",
+            "pgnAliases": ["Winawer, Szymon"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Winawer.jpg",
+                "subText": "1838-1919"
+            }
+        },
+        {
+            "name": "Johannes Zukertort",
+            "pgnUrl": "https://goatchess.github.io/pgn/Zukertort.pgn",
+            "pgnAliases": ["Zukertort, Johannes Hermann"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Zukertort.jpg",
+                "subText": "1842-1888"
             }
         }
     ]
