@@ -243,7 +243,7 @@
             "pgnUrl": "https://goatchess.github.io/pgn/Kortschnoi.pgn",
             "pgnAliases": ["Kortschnoj, Viktor", "Korchnoi,V"],
             "profile": {
-                "imageUrl": "https://goatchess.github.io/images/Kortschnoi.pgn",
+                "imageUrl": "https://goatchess.github.io/images/Kortschnoi.png",
                 "subText": "1931-2016"
             }
         },
@@ -279,7 +279,7 @@
             "pgnUrl": "https://goatchess.github.io/pgn/Lasker.pgn",
             "pgnAliases": ["Lasker, Emanuel"],
             "profile": {
-                "imageUrl": "https://goatchess.github.io/images/Lasker.jpg",
+                "imageUrl": "https://goatchess.github.io/images/Lasker.jpeg",
                 "subText": "1868-1941"
             }
         },
