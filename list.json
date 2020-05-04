@@ -1,15 +1,4 @@
 {
-    "allPlayers" : [
-        "Alekhine", "Anand", "Anderssen", "Aronian", "Benko", "Bird", 
-        "Botvinnik", "Bronstein", "Capablanca", "Carlsen", "Caruana", "Chigorin",
-        "Ding Liren", "Euwe", "Evans", "Fischer", "Gelfand",
-        "Giri", "Grischuk", "Ivanchuk", "Karopv", "Kasparov","Keres", "Korchnoi",
-        "Kramnik", "LaBourdonnais", "larsen", "Lasker", "Marshall","Mamedyerov", "Morphy",
-        "Najdorf", "Nakamura", "Pilsbury", "Polgar", "Reshevsky", "Reti",
-        "Rubinstein", "Seriawan", "So", "Spassky", "Staunton",
-        "Steinitz", "SultanKhan", "Svidler", "Tal", "Tarrasch",
-        "Topalov", "VachierLagrave"
-    ],
     "list":[
         {
             "name": "Alexander Alekhine",
