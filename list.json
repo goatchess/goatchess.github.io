@@ -6,8 +6,7 @@
             "pgnAliases": ["Alekhine, Alexander"],
             "profile":{
                 "imageUrl": "https://goatchess.github.io/images/Alekhine.jpg",
-                "subText": "1892-1946",
-                "title": "GM"
+                "subText": "1892-1946"
             }
         },
         {
@@ -16,8 +15,7 @@
             "pgnAliases": ["Anand, Viswanathan", "Anand,V"],
             "profile":{
                 "imageUrl": "https://goatchess.github.io/images/Anand.jpeg",
-                "subText": "1969-",
-                "title": "GM"
+                "subText": "1969-"
             }
         },
         {
