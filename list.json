@@ -379,6 +379,15 @@
             }
         },
         {
+            "name": "Sam Shankland",
+            "pgnUrl": "https://goatchess.github.io/pgn/Shankland.pgn",
+            "pgnAliases": ["Shankland, S", "Shankland, Samuel L"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Shankland.jpeg",
+                "subText": "1991-"
+            }
+        },
+        {
             "name": "Wesley So",
             "pgnUrl": "https://goatchess.github.io/pgn/So.pgn",
             "pgnAliases": ["So,Wesley","So,W"],
