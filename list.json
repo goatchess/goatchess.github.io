@@ -87,7 +87,7 @@
             "pgnAliases": ["Carlsen,Magnus","Carlsen,M"],
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Carlsen.jpeg",
-                "subText": "1990="
+                "subText": "1990-"
             }
         },
         {
@@ -118,6 +118,15 @@
             }
         },
         {
+            "name": "Daniil Dubov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Dubov.pgn",
+            "pgnAliases": ["Dubov, Daniil"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Dubov.jpg",
+                "subText": "1996-"
+            }
+        },
+        {
             "name": "Max Euwe",
             "pgnUrl": "https://goatchess.github.io/pgn/Euwe.pgn",
             "pgnAliases": ["Euwe, Max"],
@@ -133,6 +142,24 @@
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Evans.jpg",
                 "subText": "1932-2010"
+            }
+        },
+        {
+            "name": "Reuben Fine",
+            "pgnUrl": "https://goatchess.github.io/pgn/Fine.pgn",
+            "pgnAliases": ["Fine, Reuben"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Fine.png",
+                "subText": "1914-1993"
+            }
+        },
+        {
+            "name": "Ben Finegold",
+            "pgnUrl": "https://goatchess.github.io/pgn/Finegold.pgn",
+            "pgnAliases": ["Finegold,B", "Finegold, Benjamin"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Finegold.jpg",
+                "subText": "1969-"
             }
         },
         {
@@ -172,12 +199,30 @@
             }
         },
         {
+            "name": "Robert Hess",
+            "pgnUrl": "https://goatchess.github.io/pgn/Hess.pgn",
+            "pgnAliases": ["Hess, Robert L", "Hess, Ro"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Hess.png",
+                "subText": "1991-"
+            }
+        },
+        {
             "name": "Vassily Ivanchuk",
             "pgnUrl": "https://goatchess.github.io/pgn/Ivanchuk.pgn",
             "pgnAliases": ["Ivanchuk, Vassily", "Ivanchuk,V"],
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Ivanchuk.png",
                 "subText": "1969-"
+            }
+        },
+        {
+            "name": "Baadur Jobava",
+            "pgnUrl": "https://goatchess.github.io/pgn/Jobava.pgn",
+            "pgnAliases": ["Jobava, Baadur", "Jobava,Ba"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Jobava.png",
+                "subText": "1983-"
             }
         },
         {
@@ -358,6 +403,15 @@
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Reti.jpg",
                 "subText": "1889-1929"
+            }
+        },
+        {
+            "name": "Eric Rosen",
+            "pgnUrl": "https://goatchess.github.io/pgn/Rosen.pgn",
+            "pgnAliases": ["Rosen, Eric S", "Rosen, E"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Rosen.png",
+                "subText": "1993-"
             }
         },
         {
