@@ -462,7 +462,7 @@
         {
             "name": "Vasily Smyslov",
             "pgnUrl": "https://goatchess.github.io/pgn/Smyslov.pgn",
-            "pgnAliases": ["Smyslov, Vasily", "Smyslov,V"],
+            "pgnAliases": ["Smyslov, Vassily", "Smyslov,V"],
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Smyslov.jpg",
                 "subText": "1921-2010"
