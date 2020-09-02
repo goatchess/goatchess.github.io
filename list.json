@@ -181,6 +181,15 @@
             }
         },
         {
+            "name": "Svetozar Gligorić",
+            "pgnUrl": "https://goatchess.github.io/pgn/Gligoric.pgn",
+            "pgnAliases": ["Gligoric", "Gligoric, Svetozar"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Gligoric.jpg",
+                "subText": "1923-2012"
+            }
+        },
+        {
             "name": "Anish Giri",
             "pgnUrl": "https://goatchess.github.io/pgn/Giri.pgn",
             "pgnAliases": ["Giri,A"],
@@ -370,6 +379,15 @@
             }
         },
         {
+            "name": "Tigran Petrosian",
+            "pgnUrl": "https://goatchess.github.io/pgn/Petrosian.pgn",
+            "pgnAliases": ["Petrosian, Tigran V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Petrosian.png",
+                "subText": "1929-1984"
+            }
+        },
+        {
             "name": "Harry Pillsbury",
             "pgnUrl": "https://goatchess.github.io/pgn/Pillsbury.pgn",
             "pgnAliases": ["Pillsbury, Harry Nelson"],
@@ -439,6 +457,15 @@
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Shankland.jpeg",
                 "subText": "1991-"
+            }
+        },
+        {
+            "name": "Vasily Smyslov",
+            "pgnUrl": "https://goatchess.github.io/pgn/Smyslov.pgn",
+            "pgnAliases": ["Smyslov, Vasily", "Smyslov,V"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Smyslov.jpg",
+                "subText": "1921-2010"
             }
         },
         {
