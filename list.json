@@ -370,6 +370,15 @@
             }
         },
         {
+            "name": "Ian Nepomniachtchi",
+            "pgnUrl": "https://goatchess.github.io/pgn/Nepomniachtchi.pgn",
+            "pgnAliases": ["Nepomniachtchi,I"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Nepomniachtchi.png",
+                "subText": "1990-"
+            }
+        },
+        {
             "name": "Aaron Nimzowitsch",
             "pgnUrl": "https://goatchess.github.io/pgn/Nimzowitsch.pgn",
             "pgnAliases": ["Nimzowitsch, Aaron "],
