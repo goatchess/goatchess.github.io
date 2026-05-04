@@ -370,6 +370,15 @@
             }
         },
         {
+            "name": "Daniel Naroditsky",
+            "pgnUrl": "https://goatchess.github.io/pgn/Naroditsky.pgn",
+            "pgnAliases": ["Naroditsky, Daniel"],
+            "profile": {
+                "imageUrl": "https://goatchess.github.io/images/Naroditsky.jpg",
+                "subText": "1995-2025"
+            }
+        },
+        {
             "name": "Ian Nepomniachtchi",
             "pgnUrl": "https://goatchess.github.io/pgn/Nepomniachtchi.pgn",
             "pgnAliases": ["Nepomniachtchi,I"],
@@ -492,7 +501,7 @@
             "pgnAliases": ["Spassky, Boris V"],
             "profile": {
                 "imageUrl": "https://goatchess.github.io/images/Spassky.jpg",
-                "subText": "1937-"
+                "subText": "1937-2025"
             }
         },
         {
